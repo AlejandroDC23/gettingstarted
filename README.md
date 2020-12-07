@@ -1,2 +1,2 @@
 # gettingstarted
-First repository
+First repository. Test with Coursera.
